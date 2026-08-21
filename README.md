@@ -2,8 +2,9 @@
 <h3 align="center">Software Engineer — AI/ML Systems · Full-Stack · Cloud & DevOps</h3>
 
 <p align="center">
-  Software Engineer Intern @ <b>KPMG</b> · B.Tech CSE, Lovely Professional University (CGPA 8.03/10)<br/>
-  I build production web applications and AI-powered systems — RAG pipelines, multi-agent workflows, and cloud-deployed backends.
+  Ex-Software Engineer Intern @ <b>KPMG</b> · B.Tech CSE, Lovely Professional University (CGPA 7.98/10) · Sep 2022 – Jul 2026<br/>
+  I build production web applications and AI-powered systems — RAG pipelines, multi-agent workflows, and cloud-deployed backends.<br/>
+  🟢 Open to full-time opportunities in AI/ML, Full-Stack, and Cloud/DevOps roles.
 </p>
 
 <p align="center">
@@ -67,13 +68,19 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 </p>
 
 ---
 
-### 💼 Currently
+### 💼 Experience
 
-Building enterprise-grade full-stack features as a **Software Engineer Intern at KPMG**, in an Agile/Scrum environment — applying AI/ML to automate workflows and support data-driven decision-making.
+**Software Engineer Intern — KPMG** · Jan 2026 – Jul 2026
+- Developed full-stack enterprise applications using React and FastAPI within Agile/Scrum sprints.
+- Built test automation with Playwright, streamlining regression testing and cutting manual QA effort.
+- Built web scraping solutions to automate data collection, supporting data-driven decisions across project teams.
+
+**Currently:** wrapped up my B.Tech and the KPMG internship — actively looking for full-time roles in AI/ML, Full-Stack, or Cloud/DevOps, and shipping projects in the meantime (see below).
 
 ---
 
