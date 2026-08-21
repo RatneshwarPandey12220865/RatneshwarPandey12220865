@@ -1,10 +1,11 @@
-<h1 align="center">Hi, I'm Ratneshwar Pandey 👋</h1>
-<h3 align="center">Software Engineer — AI/ML Systems · Full-Stack · Cloud & DevOps</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=220&section=header&text=Ratneshwar%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%26%20DevOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  Ex-Software Engineer Intern @ <b>KPMG</b> · B.Tech CSE, Lovely Professional University (CGPA 7.98/10) · Sep 2022 – Jul 2026<br/>
-  I build production web applications and AI-powered systems — RAG pipelines, multi-agent workflows, and cloud-deployed backends.<br/>
-  🟢 Open to full-time opportunities in AI/ML, Full-Stack, and Cloud/DevOps roles.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems;RAG+pipelines+%2B+multi-agent+workflows+(LangChain%2FLangGraph);Full-stack+%E2%80%94+React+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+FastAPI;Deployed+%26+automated+on+AWS+with+Docker+%2B+GitHub+Actions;%F0%9F%9F%A2+Open+to+full-time+opportunities" alt="Typing SVG"/></a>
+</p>
+
+<p align="center">
+  <em>Ex-Software Engineer Intern @ KPMG · B.Tech CSE, Lovely Professional University (CGPA 7.98/10, Sep 2022 – Jul 2026)</em>
 </p>
 
 <p align="center">
@@ -13,7 +14,11 @@
   <a href="https://github.com/RatneshwarPandey12220865"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RatneshwarPandey12220865&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=2&section=header" width="100%"/>
 
 ### 🧰 Tech Stack
 
@@ -71,7 +76,7 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=2&section=header" width="100%"/>
 
 ### 💼 Experience
 
@@ -82,7 +87,7 @@
 
 **Currently:** wrapped up my B.Tech and the KPMG internship — actively looking for full-time roles in AI/ML, Full-Stack, or Cloud/DevOps, and shipping projects in the meantime (see below).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=2&section=header" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -110,7 +115,7 @@ Full-stack placement prep platform with JWT auth, timed tests, and auto-submissi
 `React 18` `Node.js` `Express.js` `MongoDB` `Socket.io` `AWS EC2` `Docker`
 Real-time P2P slot-swap marketplace handling 200+ concurrent WebSocket connections via Socket.io, with sub-200ms live notification delivery — cut scheduling conflicts ~50% for 40+ beta users.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=2&section=header" width="100%"/>
 
 ### 🏆 Achievements
 
@@ -124,13 +129,33 @@ Real-time P2P slot-swap marketplace handling 200+ concurrent WebSocket connectio
 - Supervised Machine Learning: Regression and Classification – Coursera (2024)
 - Generative AI for Everyone – DeepLearning.AI (2024)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=2&section=header" width="100%"/>
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RatneshwarPandey12220865&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatneshwarPandey12220865&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RatneshwarPandey12220865&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatneshwarPandey12220865&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshwarPandey12220865&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshwarPandey12220865&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatneshwarPandey12220865&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RatneshwarPandey12220865&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+<!--START_SECTION:waka-->
+<!-- Live contribution snake, generated by .github/workflows/snake.yml on every push and daily via cron -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RatneshwarPandey12220865/RatneshwarPandey12220865/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RatneshwarPandey12220865/RatneshwarPandey12220865/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" width="100%"/>
+</p>
+<!--END_SECTION:waka-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=120&section=footer" width="100%"/>
