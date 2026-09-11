@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="Projects — Eight systems, each with the number I&#x27;d defend in an interview. Click a card for the repo."><title>Projects — Eight systems, each with the number I&#x27;d defend in an interview. Click a card for the repo.</title>
+<style>
+.bg{fill:#F2F4F7} .sf{fill:#FFFFFF} .s2{fill:#E8ECF1} .ln{stroke:#D3DAE3} .lnf{fill:#D3DAE3}
+.ink{fill:#10161D} .mu{fill:#566271} .ac{fill:#0A66C2} .acs{fill:#DCEAF8} .acst{stroke:#0A66C2}
+.mk{fill:#C98A0B} .mks{fill:#FCEFC9} .mkst{stroke:#C98A0B} .ok{fill:#1F8A4C} .onac{fill:#FFFFFF}
+.d{font-family:'Bricolage Grotesque','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Arial,sans-serif} .b{font-family:'IBM Plex Sans','Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.flow{stroke-dasharray:4 4;animation:flow .7s linear infinite}
+.pulse{animation:pulse 2.4s ease-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes flow{to{stroke-dashoffset:-16}}
+@keyframes pulse{0%{opacity:.55;transform:scale(1)}80%,100%{opacity:0;transform:scale(2.6)}}
+@media (prefers-color-scheme:dark){
+ .bg{fill:#0C1117} .sf{fill:#131A22} .s2{fill:#1A232D} .ln{stroke:#26323F} .lnf{fill:#26323F}
+ .ink{fill:#E4EAF0} .mu{fill:#8E9BAA} .ac{fill:#58A2EE} .acs{fill:#132B44} .acst{stroke:#58A2EE}
+ .mk{fill:#F2B84B} .mks{fill:#3A2E12} .mkst{stroke:#F2B84B} .ok{fill:#44BD78} .onac{fill:#06101C}
+}
+@media (prefers-reduced-motion:reduce){.flow,.pulse{animation:none}}
+</style><text x="0" y="50" class="ink d" font-size="40" font-weight="750" text-anchor="start" letter-spacing="-1">Projects</text><text x="0" y="80" class="mu b" font-size="16" font-weight="400" text-anchor="start" >Eight systems, each with the number I&#x27;d defend in an interview. Click a card for the repo.</text></svg>
