@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<a href="https://ratneshwarpandey12220865.github.io/"><img src="assets/hero.svg" width="100%" alt="Ratneshwar Pandey — I build multi-agent AI systems that cite their sources, and the full-stack and cloud plumbing that gets them to production. Open to full-time roles, Bhopal, India."/></a>
+<a href="https://ratneshwarpandey12220865.github.io/"><img src="hero.svg" width="100%" alt="Ratneshwar Pandey — I build multi-agent AI systems that cite their sources, and the full-stack and cloud plumbing that gets them to production. Open to full-time roles, Bhopal, India."/></a>
 
 <p align="center">
   <a href="https://ratneshwarpandey12220865.github.io/"><b>▶ Interactive portfolio</b></a> ·
@@ -21,23 +21,23 @@
 <br>
 
 <a name="projects"></a>
-<img src="assets/section-projects.svg" width="100%" alt="Projects"/>
+<img src="section-projects.svg" width="100%" alt="Projects"/>
 
 <p>
-  <a href="https://github.com/RatneshwarPandey12220865/Government-Gazette-Intelligence-Agent"><img src="assets/card-gazette.svg" width="49%" alt="Government Gazette Intelligence Agent"/></a>
-  <a href="https://github.com/RatneshwarPandey12220865/TaskPilot"><img src="assets/card-taskpilot.svg" width="49%" alt="TaskPilot"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/Government-Gazette-Intelligence-Agent"><img src="card-gazette.svg" width="49%" alt="Government Gazette Intelligence Agent"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/TaskPilot"><img src="card-taskpilot.svg" width="49%" alt="TaskPilot"/></a>
 </p>
 <p>
-  <a href="https://github.com/RatneshwarPandey12220865/Hybrid-SLM-LLM-Router"><img src="assets/card-router.svg" width="49%" alt="Hybrid SLM + LLM Router"/></a>
-  <a href="https://github.com/RatneshwarPandey12220865/DocuMind-RAG-Project"><img src="assets/card-documind.svg" width="49%" alt="DocuMind RAG"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/Hybrid-SLM-LLM-Router"><img src="card-router.svg" width="49%" alt="Hybrid SLM + LLM Router"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/DocuMind-RAG-Project"><img src="card-documind.svg" width="49%" alt="DocuMind RAG"/></a>
 </p>
 <p>
-  <a href="https://github.com/RatneshwarPandey12220865/MultiAgentResearchAssistant"><img src="assets/card-research.svg" width="49%" alt="Multi-Agent Research Assistant"/></a>
-  <a href="https://github.com/RatneshwarPandey12220865/ResumeAnalyzer"><img src="assets/card-resume.svg" width="49%" alt="AI Resume Analyzer"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/MultiAgentResearchAssistant"><img src="card-research.svg" width="49%" alt="Multi-Agent Research Assistant"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/ResumeAnalyzer"><img src="card-resume.svg" width="49%" alt="AI Resume Analyzer"/></a>
 </p>
 <p>
-  <a href="https://github.com/RatneshwarPandey12220865/EcommercePlatform"><img src="assets/card-ecommerce.svg" width="49%" alt="E-Commerce Platform"/></a>
-  <a href="https://github.com/RatneshwarPandey12220865/ProjectManagementWebsite"><img src="assets/card-pm.svg" width="49%" alt="Project Management Platform"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/EcommercePlatform"><img src="card-ecommerce.svg" width="49%" alt="E-Commerce Platform"/></a>
+  <a href="https://github.com/RatneshwarPandey12220865/ProjectManagementWebsite"><img src="card-pm.svg" width="49%" alt="Project Management Platform"/></a>
 </p>
 
 <details>
@@ -60,24 +60,24 @@
 <br>
 
 <a name="stack"></a>
-<img src="assets/section-stack.svg" width="100%" alt="Stack"/>
-<img src="assets/stack.svg" width="100%" alt="AI/LLM: HF Transformers, LangGraph, LangChain, OpenAI SDK, Tesseract, Ollama, Qdrant, ChromaDB. Backend: FastAPI, Express, SQLAlchemy, Celery, Spring Boot, Django, GraphQL. Frontend: React, Tailwind, Next.js, Zustand, Streamlit. Data: PostgreSQL, MongoDB, Redis. Ship and test: Docker, Pytest, Playwright, GitHub Actions, AWS Lambda."/>
+<img src="section-stack.svg" width="100%" alt="Stack"/>
+<img src="stack.svg" width="100%" alt="AI/LLM: HF Transformers, LangGraph, LangChain, OpenAI SDK, Tesseract, Ollama, Qdrant, ChromaDB. Backend: FastAPI, Express, SQLAlchemy, Celery, Spring Boot, Django, GraphQL. Frontend: React, Tailwind, Next.js, Zustand, Streamlit. Data: PostgreSQL, MongoDB, Redis. Ship and test: Docker, Pytest, Playwright, GitHub Actions, AWS Lambda."/>
 
 <br><br>
 
 <a name="experience"></a>
-<img src="assets/section-experience.svg" width="100%" alt="Experience"/>
-<img src="assets/experience.svg" width="100%" alt="Now: looking for a full-time role. Jan–Jul 2026: Software Engineer Intern at KPMG — React + FastAPI apps, Playwright automation, web-scraping pipelines. Sep 2022–Jul 2026: B.Tech CSE, Lovely Professional University, CGPA 7.98/10."/>
+<img src="section-experience.svg" width="100%" alt="Experience"/>
+<img src="experience.svg" width="100%" alt="Now: looking for a full-time role. Jan–Jul 2026: Software Engineer Intern at KPMG — React + FastAPI apps, Playwright automation, web-scraping pipelines. Sep 2022–Jul 2026: B.Tech CSE, Lovely Professional University, CGPA 7.98/10."/>
 
 <br><br>
 
 <a name="recognition"></a>
-<img src="assets/section-recognition.svg" width="100%" alt="Recognition"/>
-<img src="assets/recognition.svg" width="100%" alt="1st place, Infenion Hackathon. 700+ competitive programming problems solved. 2024 certifications: NPTEL Cloud Computing (IIT Kharagpur), Prompt Engineering for LLMs, Supervised ML, Generative AI for Everyone."/>
+<img src="section-recognition.svg" width="100%" alt="Recognition"/>
+<img src="recognition.svg" width="100%" alt="1st place, Infenion Hackathon. 700+ competitive programming problems solved. 2024 certifications: NPTEL Cloud Computing (IIT Kharagpur), Prompt Engineering for LLMs, Supervised ML, Generative AI for Everyone."/>
 
 <br><br>
 
-<img src="assets/section-stats.svg" width="100%" alt="Activity"/>
+<img src="section-stats.svg" width="100%" alt="Activity"/>
 
 <p align="center">
   <picture>
@@ -108,7 +108,7 @@
 <br>
 
 <a name="contact"></a>
-<a href="mailto:pandeyratneshwar1@gmail.com?subject=Role%20opportunity"><img src="assets/contact.svg" width="100%" alt="Hiring for AI, full-stack or cloud work? Email pandeyratneshwar1@gmail.com"/></a>
+<a href="mailto:pandeyratneshwar1@gmail.com?subject=Role%20opportunity"><img src="contact.svg" width="100%" alt="Hiring for AI, full-stack or cloud work? Email pandeyratneshwar1@gmail.com"/></a>
 
 <p align="center">
   <a href="https://ratneshwarpandey12220865.github.io/">Interactive portfolio</a> ·
