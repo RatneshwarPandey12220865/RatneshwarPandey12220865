@@ -73,7 +73,7 @@
 
 <a name="recognition"></a>
 <img src="section-recognition.svg" width="100%" alt="Recognition"/>
-<img src="recognition.svg" width="100%" alt="1st place, Infenion Hackathon. 700+ competitive programming problems solved. 2024 certifications: NPTEL Cloud Computing (IIT Kharagpur), Prompt Engineering for LLMs, Supervised ML, Generative AI for Everyone."/>
+<img src="recognition.svg" width="100%" alt="1st place, Infineon Hackathon. 700+ competitive programming problems solved. 2024 certifications: NPTEL Cloud Computing (IIT Kharagpur), Prompt Engineering for LLMs, Supervised ML, Generative AI for Everyone."/>
 
 <br><br>
 

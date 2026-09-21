@@ -72,7 +72,7 @@ def hero():
     b.append(t(48, 348, "gets them to production.", "mu b", 20))
     # facts
     facts = [("LAST ROLE", "SWE Intern, KPMG"), ("DEGREE", "B.Tech CSE · 7.98"),
-             ("DSA", "700+ solved"), ("HACKATHON", "1st, Infenion")]
+             ("DSA", "700+ solved"), ("HACKATHON", "1st, Infineon")]
     b.append(f'<line x1="48" y1="372" x2="592" y2="372" class="ln" stroke-width="1"/>')
     for i, (k, v) in enumerate(facts):
         x = 48 + i * 140
@@ -241,7 +241,7 @@ def recognition():
     W, H = 1200, 250
     b = [t(0, 20, "ACHIEVEMENTS", "mu m", 12, 600, extra='letter-spacing="1"'),
          t(620, 20, "CERTIFICATIONS", "mu m", 12, 600, extra='letter-spacing="1"')]
-    ach = [("1st", "Infenion Hackathon — “Defend the Kingdom”", "Real-time strategy solution shipped in 24 hours."),
+    ach = [("1st", "Infineon Hackathon — “Defend the Kingdom”", "Real-time strategy solution shipped in 24 hours."),
            ("700+", "Competitive programming", "Problems solved on LeetCode, CodeChef and HackerRank.")]
     for i, (big, h, s) in enumerate(ach):
         y = 78 + i * 92
@@ -256,7 +256,7 @@ def recognition():
             b.append(f'<line x1="620" y1="{y-28}" x2="{W}" y2="{y-28}" class="ln" stroke-width="1"/>')
         b.append(t(620, y, "2024", "mu m", 13, 500))
         b.append(t(680, y, c, "ink b", 15.5))
-    write("recognition.svg", svg(W, H, "".join(b), "Recognition: 1st place Infenion Hackathon; 700+ DSA problems; four 2024 certifications"))
+    write("recognition.svg", svg(W, H, "".join(b), "Recognition: 1st place Infineon Hackathon; 700+ DSA problems; four 2024 certifications"))
 
 
 # ------------------------------------------------------------------ contact
